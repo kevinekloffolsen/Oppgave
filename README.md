@@ -1,2 +1,2 @@
 # Java fil som printer navnet mitt
-Jau
+Jau2
